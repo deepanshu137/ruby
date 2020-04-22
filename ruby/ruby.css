@@ -1,0 +1,98 @@
+a{
+	display: block;
+	font font-weight: bold;
+	color:  #FF0000;
+	background:  #FF0000 #FF6347;
+	width: 400px;
+	font-size: 50px;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-left: : 88px;
+}
+a:hover{
+	background: #b3b3b3;  /*here hover focus active are used for effect on link when we touch on it*/
+	color:  #8B0000 ;
+}
+a:focus{
+	background: #b3b3b3;
+	color: #0006cc;
+}
+a:active{
+	border: 3px solid #000000;
+}
+.level1{
+	background-color:    #FFDAB9   ;
+	
+}
+body{
+	font-size: 25px;
+}
+h1{
+	text-align: center;
+}
+
+.level1 h1{
+	font-size: 100px;
+	font-style: italic;
+	color:    #FF4500   ;
+	background-color:  #EEDD82  ;
+
+}
+.level2{
+	background-color:   #B0C4DE ;
+}
+.level3{
+	background-color:     #B0E0E6  ;
+}
+
+}
+.level4{
+	background-color:  #F5DEB3 ;
+}
+.level4{
+	background-color:  #CD853F ;
+}
+.level5{
+	background-color:  #D3D3D3 ;
+}
+.level6{
+	background-color:   grey ;
+}
+.level6 h1{
+	font-style: italic;
+	font-size: 90px;
+	color: gold;
+}
+.level2 h1{
+	background-color:   #FFB6C1  ;
+}
+.level3 h1{
+	background-color:     #1E90FF ;
+}
+.level4 h1{
+	background-color:  #8B4513 ;
+}
+.level5 h1{
+	background-color:  #A9A9A9 ;
+}
+.level0 a{
+	display: block;
+	font font-weight: bold;
+	color:  #FF6347 ;
+	background: ;
+	width: 400px;
+	font-size: 50px;
+	position: absolute;
+	padding: 4px;
+	text-decoration: none;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-left: : 88px;
+}
+.level0  a:hover{
+	  background-color: white;
+	  color: black;
+}
